@@ -1,0 +1,3 @@
+This is version 1 of my project.
+I want this to add to commit2.
+changed by harry.
